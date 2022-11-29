@@ -1,0 +1,14 @@
+#graphwidget {
+    .app-title {
+        font-size: 1.5em;
+        font-weight: bold;
+        margin-bottom: 1em;
+    }
+    .row {
+        display: flex;
+      }
+      
+    .column {
+        flex: 50%;
+      }
+} 
